@@ -3,7 +3,6 @@
 ![45ats](https://i.imgur.com/Paqx5zG.png)
 
 A premium and beautiful 45% (And Then Some) Keyboard. Complete concept and design by [Abec13](https://www.reddit.com/user/abec13). 
-
 45-ATS Firmware written by [The_Royal](https://www.reddit.com/user/The_Royal/).
 
 Keyboard Maintainer: Abec13
