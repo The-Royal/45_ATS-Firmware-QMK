@@ -4,8 +4,11 @@
 
 A premium and beautiful 45% (And Then Some) Keyboard. Complete concept and design by [Abec13](https://www.reddit.com/user/abec13). 45-ATS Firmware written by [The_Royal](https://www.reddit.com/user/The_Royal/).
 
+
 Keyboard Maintainer: Abec13
+
 Hardware Supported: 45-ATS v1.0 PCB
+
 Hardware Availability: Through GB - Dec. 2019
 
 Make example for this keyboard (after setting up your build environment):
