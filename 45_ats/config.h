@@ -23,8 +23,8 @@
 #define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Abec13
-#define PRODUCT         45-ATS
-#define DESCRIPTION     A premium 45, and then some, keyboard.
+#define PRODUCT         45ATS
+#define DESCRIPTION     "A premium 45, and then some, keyboard"
 
 /* key matrix size */
 #define MATRIX_ROWS 4
